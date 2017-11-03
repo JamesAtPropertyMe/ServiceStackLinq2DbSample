@@ -85,19 +85,6 @@
     <Compile Include="ExampleEntity.cs" />
     <Compile Include="ExampleDb.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="docs\MySqlTransaction.xml" />
-    <None Include="docs\MySqlParameterCollection.xml" />
-    <None Include="docs\MySqlParameter.xml" />
-    <None Include="docs\MySqlHelper.xml" />
-    <None Include="docs\MySqlException.xml" />
-    <None Include="docs\MySqlDataReader.xml" />
-    <None Include="docs\MySqlDataAdapter.xml" />
-    <None Include="docs\MySqlConnectionStringBuilder.xml" />
-    <None Include="docs\MySqlConnection.xml" />
-    <None Include="docs\MySqlCommandBuilder.xml" />
-    <None Include="docs\MySqlCommand.xml" />
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
     <MonoDevelop>
