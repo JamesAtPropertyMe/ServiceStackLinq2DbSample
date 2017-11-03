@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CA1333C7-C549-400A-B79D-E516B7E3DE17}|">
+  <MonoDevelop.Ide.ItemProperties.ServiceStackLinq2DbSample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceStackLinq2DbSample/AppHost.cs">
+    <Files>
+      <File FileName="ServiceStackLinq2DbSample/Web.config" Line="8" Column="4" />
+      <File FileName="ServiceStackLinq2DbSample/TestService.cs" Line="106" Column="10" />
+      <File FileName="ServiceStackLinq2DbSample/AppHost.cs" Line="34" Column="1" />
+      <File FileName="ServiceStackLinq2DbSample/ExampleEntity.cs" Line="16" Column="33" />
+      <File FileName="ServiceStackLinq2DbSample/ExampleDb.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServiceStackLinq2DbSample" expanded="True">
+            <Node name="ServiceStackLinq2DbSample" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
